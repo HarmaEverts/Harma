@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Meilindis
+- 👋 Hi, I’m @HarmaEverts
 - 👀 I’m interested in coding and technical writing
 - 🌱 I’m currently learning Python after being a C++ developer in the past
 - 💞️ I love learning new skills and working together to create nice things 
-- 📫 Drop me a note at mail@meilindis.nl if you'd like to collaborate
+- 📫 Drop me a note at mail@harmaeverts.nl if you'd like to collaborate
